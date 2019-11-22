@@ -1,4 +1,8 @@
 {
+  "BCrypt.Net-Next": {
+    "version": "3.2.0",
+    "listed": "true"
+  },
   "Eflatun.Expansions": {
     "listed": true,
     "version": "0.0.2"

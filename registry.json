@@ -1,7 +1,11 @@
 {
   "BCrypt.Net-Next": {
     "version": "3.2.0",
-    "listed": "true"
+    "listed": true
+  },
+  "CommandLineParser": {
+    "version": "2.6.0",
+    "listed": true
   },
   "Eflatun.Expansions": {
     "listed": true,
@@ -26,6 +30,10 @@
     "listed": true,
     "version": "11.0.1"
   },
+  "Pipelines.Sockets.Unofficial": {
+    "listed": false,
+    "version": "2.0.22"
+  },
   "Scriban": {
     "listed": true,
     "version": "2.1.0"
@@ -34,9 +42,21 @@
     "listed": true,
     "version": "0.24.0"
   },
+  "StackExchange.Redis": {
+    "listed": true,
+    "version": "2.0.601"
+  },
   "System.Buffers": {
     "listed": true,
     "version": "4.4.0"
+  },
+  "System.Diagnostics.PerformanceCounter": {
+    "listed": false,
+    "version": "4.5.0"
+  },
+  "System.IO.Pipelines": {
+    "listed": false,
+    "version": "4.5.1"
   },
   "System.Memory": {
     "listed": true,
@@ -57,5 +77,9 @@
   "System.Threading.Tasks.Extensions": {
     "listed": false,
     "version": "4.4.0"
+  },
+  "System.Threading.Channels": {
+    "listed": false,
+    "version": "4.5.0"
   }
 }
